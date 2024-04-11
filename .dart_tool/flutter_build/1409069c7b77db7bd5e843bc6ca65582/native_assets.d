@@ -1,0 +1,1 @@
+ /home/tsega/Desktop/Mobile/BunaKurs/.dart_tool/flutter_build/1409069c7b77db7bd5e843bc6ca65582/native_assets.yaml: 
